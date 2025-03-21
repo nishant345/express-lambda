@@ -9,6 +9,5 @@ phases:
       - npm install
 
 artifacts:
-  base-directory: cdk.out
   files:
     - '**/*'
